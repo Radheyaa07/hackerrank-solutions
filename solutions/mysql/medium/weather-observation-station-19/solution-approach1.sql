@@ -5,7 +5,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-07-12, 04:57 p.m.
+-- Submitted   2026-07-12, 04:58 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT ROUND(
