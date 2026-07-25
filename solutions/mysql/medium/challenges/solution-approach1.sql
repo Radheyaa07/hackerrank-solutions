@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-07-25, 11:07 p.m.
+-- Submitted   2026-07-25, 11:09 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT h.hacker_id,
